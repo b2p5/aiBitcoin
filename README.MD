@@ -32,4 +32,4 @@ Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` 
 
 ---
 
-Desarrollado con ❤️ por [Tb2p5]
+Desarrollado con ❤️ por [b2p5]
