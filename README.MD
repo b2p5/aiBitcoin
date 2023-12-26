@@ -3,6 +3,8 @@
 
 Diagrama de bloques (https://drive.google.com/file/d/1XjQV4-sOuVIu85JAoXpGWSXJeSvIp-oL/view?usp=sharing) 
 
+![Diagrama de aiBitcoin](https://drive.google.com/file/d/1XjQV4-sOuVIu85JAoXpGWSXJeSvIp-oL/view?usp=sharing)
+
 
 ## Descripción
 aiBitcoin es una plataforma tecnológica avanzada que combina procesamiento de lenguaje natural, aprendizaje automático, manejo de APIs e información específica de páginas Web para ofrecer una experiencia educativa y analítica en torno a Bitcoin. Utiliza la tecnología myGPT junto con APIs personalizadas y técnicas de scraping para proporcionar un conocimiento profundo y actualizado sobre el ecosistema de Bitcoin.
