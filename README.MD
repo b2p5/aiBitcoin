@@ -3,7 +3,7 @@
 
 Diagrama de bloques (https://drive.google.com/file/d/1XjQV4-sOuVIu85JAoXpGWSXJeSvIp-oL/view?usp=sharing) 
 
-![Diagrama de aiBitcoin](https://drive.google.com/file/d/1XjQV4-sOuVIu85JAoXpGWSXJeSvIp-oL/view?usp=sharing)
+![Diagrama de aiBitcoin](/imagenes/aiBitcoin.drawio.png)
 
 
 ## Descripción
